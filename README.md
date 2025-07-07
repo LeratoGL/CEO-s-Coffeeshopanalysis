@@ -1,4 +1,4 @@
-# CEO-s-Coffeeshopanalysis
+CEO’s Coffee shop analysis
 Provides a structured summary of the analytical work conducted for the coffee shop, utilizing SQL for data extraction and manipulation, and Microsoft Excel for in-depth analysis and visualization
 
 Project Overview
@@ -59,4 +59,4 @@ Tasks Breakdown
   - Automate future sales reporting
   - Plan for multi-location analytics
   - Launch loyalty incentives for peak customers
-
+ 
